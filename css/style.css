@@ -490,7 +490,8 @@ header {
 
 .hero-image-menu,
 .hero-image-gallery,
-.hero-image-contact {
+.hero-image-contact,
+.hero-image-home {
 	height: 300px;
 }
 
